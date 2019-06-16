@@ -1,0 +1,8 @@
+1 15 Vu Thanh Nam KHAC 187564158
+2 47 Nguyen Dang Minh NAM 357854158
+3 56 Do Thi Minh Thuy NU 123456789
+4 87 Nguyen Trung Tinh NAM 859658748
+5 107 Nguyen Thi Nhu Hoa NU 859654154
+6 129 Nguyen Quoc Cuong NAM 586485745
+7 173 Ha Phuoc Binh NAM 859666524
+8 206 Nguyen Thi Ngoc Bich NU 998514754
